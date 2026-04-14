@@ -1,5 +1,15 @@
 # Data Science Bootcamp – Nunnari Academy
 
+## 📚 Table of Contents
+
+| Day | Topic | Link |
+|-----|------|------|
+| Day 1 | Python Basics | [Open](Day1/) |
+| Day 2 | Yet to be added | Coming Soon |
+| Day 3 | Yet to be added | Coming Soon |
+| Day 4 | Yet to be added | Coming Soon |
+| Day 5 | Yet to be added | Coming Soon |
+
 ## 📅 Day 1
 
 ### 📘 Topic:
