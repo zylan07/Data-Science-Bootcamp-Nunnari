@@ -6,7 +6,7 @@
 | ----- | --------------- | ------------- |
 | Day 1 | Python Basics   | [Open](Day1/) |
 | Day 2 | Python & NumPy  | [Open](Day2/) |
-| Day 3 | Yet to be added | Coming Soon   |
+| Day 3 | House Price Prediction (EDA) | [Open](Day3/) |
 | Day 4 | Yet to be added | Coming Soon   |
 | Day 5 | Yet to be added | Coming Soon   |
 
@@ -51,3 +51,19 @@ Python Programming & Introduction to NumPy
 Implemented Python programs covering data structures, control statements, functions, and NumPy operations.
 
 🔗 [View Detailed Day 2 Work](Day2/)
+
+## 📅 Day 3 – House Price Prediction (EDA)
+
+### 📘 Topic:
+Data Cleaning, EDA & Visualization using Pandas
+
+### 🧠 What I Learned:
+- Handling real-world dataset using Pandas  
+- Data cleaning and preprocessing  
+- Correlation analysis and feature relationships  
+- Visualization using heatmaps, scatter plots, and histograms  
+
+### 💻 Task:
+Performed complete EDA on a housing dataset including cleaning, analysis, and visualization.
+
+🔗 [View Detailed Day 3 Work](Day3/)
