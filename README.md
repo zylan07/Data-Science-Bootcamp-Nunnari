@@ -7,12 +7,12 @@
 | Day 1 | Python Basics   | [Open](Day1/) |
 | Day 2 | Python & NumPy  | [Open](Day2/) |
 | Day 3 | House Price Prediction (EDA) | [Open](Day3/) |
-| Day 4 | Yet to be added | Coming Soon   |
+| Day 4 | Regression Models | [Open](Day4/)   |
 | Day 5 | Yet to be added | Coming Soon   |
 
 ---
 
-## 📅 Day 1
+## 📅 Day 1 - Python Basics
 
 ### 📘 Topic:
 
@@ -32,7 +32,7 @@ Solved Python beginner exercises covering all fundamental concepts.
 
 ---
 
-## 📅 Day 2
+## 📅 Day 2 - Python & NumPy
 
 ### 📘 Topic:
 
@@ -67,3 +67,18 @@ Data Cleaning, EDA & Visualization using Pandas
 Performed complete EDA on a housing dataset including cleaning, analysis, and visualization.
 
 🔗 [View Detailed Day 3 Work](Day3/)
+
+## 📅 Day 4 – Regression Models
+
+### 📘 Topic:
+Machine Learning – Regression Models
+
+### 🧠 What I Learned:
+- Basics of Machine Learning and supervised learning  
+- Building regression models (simple, multiple, polynomial)  
+- Model evaluation using MSE, MAE, and R² score  
+
+### 💻 Task:
+Built and compared multiple regression models on a real dataset to predict house prices.
+
+🔗 [View Detailed Day 4 Work](Day4/)
