@@ -8,7 +8,7 @@
 | Day 2 | Python & NumPy  | [Open](Day2/) |
 | Day 3 | House Price Prediction (EDA) | [Open](Day3/) |
 | Day 4 | Regression Models | [Open](Day4/)   |
-| Day 5 | Yet to be added | Coming Soon   |
+| Day 5 | Logistic Regression (Classification) | [Open](Day5/)   |
 
 ---
 
@@ -82,3 +82,18 @@ Machine Learning – Regression Models
 Built and compared multiple regression models on a real dataset to predict house prices.
 
 🔗 [View Detailed Day 4 Work](Day4/)
+
+## 📅 Day 5 – Logistic Regression (Classification)
+
+### 📘 Topic:
+Machine Learning – Classification using Logistic Regression
+
+### 🧠 What I Learned:
+- Classification using Logistic Regression  
+- Data preprocessing and feature encoding  
+- Model evaluation using accuracy, confusion matrix, and classification report  
+
+### 💻 Task:
+Built a classification model to predict survival using the Titanic dataset.
+
+🔗 [View Detailed Day 5 Work](Day5/)
